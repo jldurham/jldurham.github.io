@@ -280,3 +280,32 @@
     padding: 0;
 
 }
+
+/**
+ * About
+ */
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+ 
+body { margin: 0; }
+ 
+.columnsContainer {
+    position: relative;
+    margin: .5em;
+}
+ 
+.leftColumn {
+    padding: 1.25em; 
+    margin-bottom: .5em;
+}
+ 
+@media screen and (min-width: 47.5em ) {
+  .leftColumn { margin-right: 19.5em; }
+ 
+  .rightColumn { position: absolute; top: 0; right: 0; width: 18.75em; }
+}
+.rightColumn {
+    padding: 1.25em;
+}
