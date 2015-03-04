@@ -64,6 +64,8 @@ My teammates were J.J. Pionke, Jianqi Chen, Sharona Ginsberg, and Ziwei Xie.
 
 [visit the archived Bentley Historical Library website (as it appeared for study)](https://web.archive.org/web/20130423140828/http://bentley.umich.edu/)
 
+[visit the redesigned Bentley Historical Library website](http://bentley.umich.edu/)
+
 ![screenshot of new bentley website](/images/bentleynew800.jpg)
 
-[visit the redesigned Bentley Historical Library website](http://bentley.umich.edu/)
+
