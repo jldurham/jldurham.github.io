@@ -39,13 +39,13 @@ Following the heavy conceptual work, I worked through the information and interf
 
 ![modal wireframe](/images/designalt800.jpg)
 
-![modal wireframe](/images/modaltestmockup800.jpg)
+![modal wireframe](/images/modaltestmock800.jpg)
 
 With only a few weeks until a Black Friday deadline, as well as the logistical risks and unknown customer demand, the feature was rolled out in two phases. The test phase lasted two weeks, was limited to only two products, allowed the logistical kinks to be more safely rolled out, and gave the developers more time to work on additional, more elaborate, UI features. I created **annotated mock-ups and documentation** for the developers, which gave them a comparative picture of both the immediate and future needs of their implementation.
 
-![annotated mock-up](/images/annomockup1-800.jpg)
+![annotated mock-up](/images/annomockup2-800.jpg)
 
-![another annotated mock-up](/images/annomockup2-800.jpg)
+![another annotated mock-up](/images/annomockup1-800.jpg)
 
 I walked the art director and a lead visual designer through the **interactive prototype**, which I made in Axure, and produced many iterations based upon their feedback and some collaboration. The second release included a landing page for monogrammable items, a front page banner and email campaign designed within the art department based upon my specifications and wireframes. **High-fidelity comps**, which I created in Illustrator, were distributed to stakeholders for review and approval before developers fully dug into implementation. I guided the developers through the tasks at hand and oversaw **testing and review**.
 
