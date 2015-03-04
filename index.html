@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div class="title">
+    <h1>jess durham</h1>
+    <h2>a ux designer in seattle</h2>
+</div>
 <div class="home">
     {% for post in site.posts %}
     {% if post.categories contains 'project' %}
@@ -11,7 +15,6 @@ layout: default
         </a>
         <div class="project-header">
             <h1>{{ post.title }}</h1>
-            <h2>{{ post.subtitle }}</h2>
         </div>
     </article>
     {% endif %}

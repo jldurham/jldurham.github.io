@@ -252,13 +252,17 @@
 /**
  * Projects
  */
+.title h1, .title h2 {
+    text-align: center;
+}
+
 .project {
-    width: 50%;
+    width: 25%;
     float: left;
 }
 
 .project img {
-    border: 5px solid black;
+    width: 250px;
 }
 
 .project-header {
