@@ -9,6 +9,8 @@ categories: [project]
 
 ###A web application to help people, particularly older citizens, find walking buddies in their local community and become more active in their daily lives.
 
+![walk with me logo](/images/walklogo.jpg)
+
 ## the problem
 
 Countless health practitioners tell patients that they need to be more active in their daily lives. It’s a common problem experienced by the many people living the sedentary lifestyle that accompanies a world full of laptops, Netflix, and 9-5 office shifts. The simple inclusion of 30 minutes of daily walking could dramatically alter a person’s physical and mental health, so a stroll around the neighborhood is an activity that’s importance should not be underestimated.
