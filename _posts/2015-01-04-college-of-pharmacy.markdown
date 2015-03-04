@@ -46,7 +46,7 @@ After we determined our project management and created a GANTT chart to guide ou
 
 ![cultural model](/images/culturalmodel800.jpg)
 
-![cultural assessment model (section)](/images/culturalasmt2-800.jpg)
+![cultural assessment model (section)](/images/cultasmt2-800.jpg)
 
 Our models revealed the huge number of activities and processes within the organization, but most importantly, they also indicated that a lot of information relevant to these processes is common to several areas of the college. It was not surprising to find that their shared drive is disorganized and fragmented, and that every service and department has problems sharing, managing and retrieving their own information and data. Complicating matters further, there were a myriad of communication means used by the college: blog, website, UM's learning management system, internal website, email and paper shuffling. There were also several different operating systems used by faculty and staff. Our consolidated model narrowed these far-reaching issues down to the most essential points of concern, guided our path through these complicating factors as we brainstormed our recommendations.
 
