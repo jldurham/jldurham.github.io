@@ -32,7 +32,7 @@ My team conducted a usability study over several months using a diverse range of
 
 We began our process of understanding the Bentley, it's users, and both their needs by **mapping the site**. As a website for an archival repository that has been accumulating content for two decades without any restructuring or redesign, the interaction map revealed a skeleton that was seriously detached from the apparent structure of the site as visible in the UI.  It gave us early clues to the central issue with the site: It's labyrinthine structure made resources inaccessible to users, and like a bird's nest, did not offer clear paths between areas of content.
 
-![interaction map](/images/site map (jess edit)800.jpg)
+![interaction map](/images/site map800.jpg)
 
 **Interviews with stakeholders** at the Bentley, including staff working in each department and high-level administrators, gave us a better sense of users and their needs. We distributed flyers at the Bentley to find participants for **user interviews**, and interviewed a combination of those who responded and a few advanced users recommended by staff. Based upon these conversations we had enough information to create a set of **personas and scenarios** that guided our study and helped to communicate our future recommendations.
 
