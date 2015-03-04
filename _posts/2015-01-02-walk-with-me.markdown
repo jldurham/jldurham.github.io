@@ -63,12 +63,12 @@ I chose the third approach, despite my hesitance to go the skeuomorphic route as
 
 A **paper prototype** was the first time that my design was presented for evaluation, and user tests were conducted on the low fidelity model. At the conclusion of this testing, I collected a number of important issues based upon the feedback:
 
-• There was too much information on the member home page.
-• The language was unclear on the front page buttons (which indicates I should design better for people unfamiliar with the system and what it does) .
-• The navigation bar repeats a lot of links found elsewhere on the front page.
-• There is a lot of space allotted to features that may be used infrequently, such as walk statistic entry, health measurement entry, the journal area, and fitness resources.
+* There was too much information on the member home page.
+* The language was unclear on the front page buttons (which indicates I should design better for people unfamiliar with the system and what it does) .
+* The navigation bar repeats a lot of links found elsewhere on the front page.
+* There is a lot of space allotted to features that may be used infrequently, such as walk statistic entry, health measurement entry, the journal area, and fitness resources.
 
-<iframe src="https://player.vimeo.com/video/89879882" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/89879882" width="500" height="581" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 Upon these recommendations, I made several significant changes to the organization and layout of the site that were much easier to change at this phase. I used a high-fidelity prototype to work through the most important and unique function of the system: searching. It would have been extremely inefficient to make such drastic changes to Walk with Me after hours and hours spent using Axure, my software choice. As I got closer to the final design, I made some subtle iterations of the system with the **hi-fi prototype**. I found the iterative approach the most important factor in the improvement of the site. With each passage of feedback and critique, in both the low and high fidelity prototyping stages, I was able to see the design with new and fresh eyes.
 
