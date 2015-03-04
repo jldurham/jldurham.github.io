@@ -58,6 +58,8 @@ We used our four dimensions to explore the corresponding websites. We used the s
 
 We presented our findings and recommendation to an audience of staff from across the library, and it was met with a lot of interest and very positive response. The staff was energized by the work we had done, and confident to move forward with their 20+ year old website's first redesign. **Our work formed the roadmap and foundation for the site's beautiful new design, which was released the following year.**
 
+My teammates were J.J. Pionke, Jianqi Chen, Sharona Ginsberg, and Ziwei Xie. 
+
 ![screenshot of new bentley website](/images/bentleynew800.jpg)
 
 ## links
