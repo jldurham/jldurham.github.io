@@ -10,6 +10,8 @@ categories: [project]
 
 ###A contextual inquiry study to find solutions for communication breakdowns in a large academic organization.
 
+![mpharmacy logo](/images/mpharm.png)
+
 ## the problem
 
 The College of Pharmacy is the University of Michigan’s center of education for future pharmacists and pharmaceutical scientists. The college is large and widespread, with a good amount of its students and faculty working in the community. There are many departments, who function fairly autonomously, and operate under a collection of deans and administrative directors. Our team was approached at a time when the college was undergoing overhauls to their central office space, as well as their website.
