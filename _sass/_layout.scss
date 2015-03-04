@@ -3,6 +3,7 @@
  */
 .site-header {
     padding-top: 1em;
+    padding-bottom: 4.5em;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -45,6 +46,8 @@
     }
 
     .page-link {
+        font-size: 18px;
+        font-family: "Abril Fatface";
         color: $text-color;
         line-height: $base-line-height;
 
@@ -106,7 +109,12 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    padding: 39px 0;
+}
+
+.site-footer-2 {
+    border-top: 1px solid $grey-color-light;
+    padding: 20px 0;
 }
 
 .footer-heading {
@@ -252,17 +260,45 @@
 /**
  * Projects
  */
+.title {
+    margin-bottom: 9em;
+}
+
 .title h1, .title h2 {
     text-align: center;
 }
 
-.project {
-    width: 25%;
-    float: left;
+.title h1 {
+    font-weight: 400;
+    font-size: 4em;
+    margin-bottom: 0;
+    font-family: "Abril Fatface";
 }
 
+.title h2 {
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.project {
+    width: 24%;
+    float: left;
+
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+}
+
+.project + .project {
+   margin-left: 1.33%;
+
+    @include media-query($on-laptop) {
+        margin-left: 0;
+    }
+}
+
+
 .project img {
-    width: 250px;
 }
 
 .project-header {
@@ -271,18 +307,24 @@
 
 .project-header h1 {
     text-align: center;
-    font-size: 1.25em;
-    font-weight: 700;
+    font-family: "Abril Fatface";
+    font-size: 1.2em;
     margin: 0;
     padding: 0;
 }
 
 .project-header h2 {
     text-align: center;
-    font-size: 1.25em;
+    font-size: 0.85em;
+    font-family: "Roboto";
+    font-weight: 300;
     margin: 0;
     padding: 0;
 
+}
+
+.red {
+    color: red !important;
 }
 
 /**

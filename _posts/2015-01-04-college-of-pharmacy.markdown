@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  university of michigan college of pharmacy
-subtitle: contextual inquiry and design
+title:  um college of pharmacy
+subtitle: information architect
 date:   2015-02-28 18:50:21
-image: /images/puppy.jpg
+image: /images/architect240color.jpg
 categories: [project] 
 ---
 

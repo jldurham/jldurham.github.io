@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  shinola detroit
-subtitle: monogramming system design
+subtitle: designer
 date:   2015-02-28 18:50:21
-image: /images/puppy.jpg
+image: /images/shinola240color.jpg
 categories: [project] 
 ---
 

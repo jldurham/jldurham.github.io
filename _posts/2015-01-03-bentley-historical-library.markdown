@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  bentley historical library
-subtitle: usability research study
+subtitle: researcher
 date:   2015-02-28 18:50:21
-image: /images/puppy.jpg
+image: /images/bentley240color.jpg
 categories: [project] 
 ---
 

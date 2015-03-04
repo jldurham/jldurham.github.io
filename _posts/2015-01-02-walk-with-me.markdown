@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  walk with me
-subtitle: fitness community design
+subtitle: designer
 date:   2015-02-28 18:50:21
-image: /images/puppy.jpg
+image: /images/walkcolor240.jpg
 categories: [project] 
 ---
 
