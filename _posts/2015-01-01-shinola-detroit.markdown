@@ -9,9 +9,11 @@ categories: [project]
 
 ### A design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
 
+![shinola logo](/images/shinola-logo.png)
+
 ## the problem
 
-A young fashion and luxury goods brand, Shinola has experienced rapid growth in their first two years. During this time, they have been simultaneously growing both their retail business (new stores are popping up across the U.S. and abroad every few months) and their e-commerce business. Shinola are eager to **blend the user experience between their retail and e-commerce customers at every opportunity**, and to capture the unique and "destination shopping" feel of the retail shopping experience online.
+A young fashion and luxury goods with an expanding line of products ranging from watches to leather goods to bicycles and even pet accessories, Shinola has experienced rapid growth in their first two years. During this time, they have been simultaneously growing both their retail business (new stores are popping up across the U.S. and abroad every few months) and their e-commerce business. Shinola are eager to **blend the user experience between their retail and e-commerce customers at every opportunity**, and to capture the unique and "destination shopping" feel of the retail shopping experience online.
 
 Customers who buy handcrafted leather goods at their store locations from Detroit to Tribeca to London almost never turn down the opportunity to have their leather monogrammed with the in-store embossing machine at no charge (about 90%). An otherwise unremarkable check-out experience becomes remarkable as customers watch their bags being stamped by machines that haven't changed much, if any, in the past century. For a brand that strives to infuse every product with not only quality but character, it's an extremely valuable and important service.
 
