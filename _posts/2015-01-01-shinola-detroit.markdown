@@ -31,17 +31,29 @@ Stakeholders reviewed my work and when I had revised the contextual design to ev
 
 ![modal wireframe](/images/modalwireframe800.jpg)
 
+Following the heavy conceptual work, I worked through the information and interface design and into the feature's layer of **visual design**. The heart of the monogramming experience is the personalization modal that appears next to the Add to Cart button on the product detail pages for items eligible for monogramming. I faced high stakes in terms of communicating refund policy to customers, and needed to ensure the "no refunds under any circumstances" was highly visible, clear, but not intimidating and likely to steer customers away from the checkout funnel. I also needed to contend with the short timeline, busy developers, and difficulty of acquiring assets that would show what the many colors of leather look like when monogrammed. Leather needed to be photographed with embossed letters from the machine, and doing so involved a lot of coordination, time, and decisions to determine whether all, none, or some products would be stamped and photographed (which would then have a large impact on my design approach).
+
+![modal wireframe](/images/faqcomp800.jpg)
+
+![modal wireframe](/images/pdpscreenshot800.jpg)
+
+![modal wireframe](/images/designalt800.jpg)
+
+![modal wireframe](/images/modaltestmockup800.jpg)
+
 With only a few weeks until a Black Friday deadline, as well as the logistical risks and unknown customer demand, the feature was rolled out in two phases. The test phase lasted two weeks, was limited to only two products, allowed the logistical kinks to be more safely rolled out, and gave the developers more time to work on additional, more elaborate, UI features. I created **annotated mock-ups and documentation** for the developers, which gave them a comparative picture of both the immediate and future needs of their implementation.
 
-Following the heavy conceptual work, I worked through the information and interface design and into the feature's layer of **visual design**. At the center of the system is the personalization modal that would appear next to the Add to Cart button on the eligible product pages. I faced unusually high stakes in terms of communicating refund policy to customers, and needed to ensure the "no refunds under any circumstances" was highly visible, clear, but not intimidating and likely to steer customers away from the checkout funnel. I also needed to contend with the short timeline, busy developers, and difficulty of acquiring assets that would show what the many colors of leather look like when monogrammed.  
+![annotated mock-up](/images/annomockup1-800.jpg)
 
-The most important element in the personalization modal , and perhaps the entire feature, was the preview area that would allow users to see what the non-refundable leather product would look like with monogramming. My presentation options included: 1) having each product photographed in every color with a generic "ABC" sample, 2) a variation in which only samples of each color are photographed with the "ABC"  which a graphic designer would superimpose on each product 3) photograph every letter on each color swatch and programmatically display the images as blocks based on user input, 4) do the same, but superimpose the letters onto a product image 5) superimpose the individual letter samples onto a square swatch area, 6) do the same, but with text that matches the embossing machine's typeface, or 7) let them users use their imagination and skip the preview altogether. 
-
-My solution took advantage of the limited release test phase, which meant that option two ("ABC" superimposed on a color swatch) could be a feasible option as the graphic designer would only need to work with a small pool of product images (one swatch of each color). This option provided a clean presentation and satisfy the needs of users who want to see essential character of the embossed leather. For the second phase, I chose option six (text superimposed programmatically onto color swatch squares), which still adhered to our constraints, but allowed the user to have more control and information by inputting the letters displayed. To show customers the location of the monogram on each item, I brainstormed another set of options to illustrate placement, as the swatch preview limited customers' ability to get the full sense of their personalized item.
+![another annotated mock-up](/images/annomockup2-800.jpg)
 
 I walked the art director and a lead visual designer through the **interactive prototype**, which I made in Axure, and produced many iterations based upon their feedback and some collaboration. The second release included a landing page for monogrammable items, a front page banner and email campaign designed within the art department based upon my specifications and wireframes. **High-fidelity comps**, which I created in Illustrator, were distributed to stakeholders for review and approval before developers fully dug into implementation. I guided the developers through the tasks at hand and oversaw **testing and review**.
 
 ## the result
+
+![modal screenshot](/images/monogrampreviewcomp800.jpg)
+
+![modal screenshot](/images/modalfinalscreenshot800.jpg)
 
 On the first day of release, the monogramming system **increased sales of both available products 250%**. The test proved successful and the full release saw significant increases in sales for all products. Users were overwhelmingly positive in their feedback and customer service received very few issues. 
 
