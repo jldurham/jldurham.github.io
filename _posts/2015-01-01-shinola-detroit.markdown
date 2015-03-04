@@ -7,7 +7,7 @@ image: /images/shinola240color.jpg
 categories: [project] 
 ---
 
-### A full-stack design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
+### A design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
 
 ## the problem
 
@@ -19,9 +19,9 @@ The task itself seemed easy enough to hand down to Shinola's user experience des
 
 ## the process
 
-With nothing to start from but scratch, my first move was to gather as much information as possible by **interviewing stakeholders** spread widely across the company. The leather product manager and distribution center had been working together on some basic time trials for staff to emboss a leather product, and to determine which leather goods would be made eligible for the monogramming service online. I spent time at Shinola's flagship store in Detroit and shadowed staff as they embossed products for customers.
+With nowhere to start from but scratch, my first move was to gather as much information as possible by **interviewing stakeholders** spread widely across the company. The leather product manager and distribution center had been working together on some time trials for staff to emboss a leather product, and to determine which leather goods would be made eligible for the monogramming service online. During this phase, I worked two shifts as a volunteer sales associate at Shinola's flagship store in Detroit and shadowed staff as they embossed products for customers.
 
-The **site requirements** emerged out of my research and I got a sense of the hurdles: formalizing refund policy, estimating demand, placing the embossing machine to the most efficient location, and hiring and training staff to support an interactive system that would be a user experience catastrophe without these pieces in place. With the leather department, distribution center, human resources and customer service, I determined the **scope of the system and its requirements**, and created **maps and models** to communicate and ensure that the goals of the business were in line with the needs of customer.
+The **site requirements** emerged out of my research and I got a sense of the hurdles: formalizing refund policy, estimating demand, a scant amount of analytics to pull from, placing the embossing machine to the most efficient location, and hiring and training staff to support an interactive system that would be a user experience catastrophe without these pieces in place. With the leather department, distribution center, human resources and customer service, I determined the **scope of the system and its requirements**, and created **maps and models** to communicate and ensure that the goals of the business were in line with the needs of customer.
 
 ![swim lane model](/images/swim800.jpg)
 
