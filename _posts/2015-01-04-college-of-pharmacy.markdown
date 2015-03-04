@@ -46,6 +46,8 @@ Our models revealed the huge number of activities and processes within the organ
 
 As an additional aid to process our gathered information, we sorted our affinity notes into logical categories to create an **affinity wall**. This sorting method allowed us to convert the notes and models into an organized perspective, which then allowed for a more methodical analysis of the data. The director of human resources toured the wall and provided feedback and questions that helped to create an even deeper understanding of the issues at hand.
 
+![affinity wall](/images/affinity800.jpg)
+
 When we selected our recommendations, we narrowed down the major categories of analysis into what we felt were the three most significant approaches toward a solution at the college. These **findings and recommendations** were not precise directives, but rather a general guidance towards resolving the information flow issues at the college. Our recommendations were not extraordinarily surprising and ambitious, but rather satisfyingly articulated the needs and objectives for the system that would better satisfy it's users.
 
 ## the result
