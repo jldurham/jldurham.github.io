@@ -21,11 +21,15 @@ The task itself seemed easy enough to hand down to Shinola's user experience des
 
 With nothing to start from but scratch, my first move was to gather as much information as possible by **interviewing stakeholders** spread widely across the company. The leather product manager and distribution center had been working together on some basic time trials for staff to emboss a leather product, and to determine which leather goods would be made eligible for the monogramming service online. I spent time at Shinola's flagship store in Detroit and shadowed staff as they embossed products for customers.
 
-![swim lane model](/images/swim800.jpg)
-
 The **site requirements** emerged out of my research and I got a sense of the hurdles: formalizing refund policy, estimating demand, placing the embossing machine to the most efficient location, and hiring and training staff to support an interactive system that would be a user experience catastrophe without these pieces in place. With the leather department, distribution center, human resources and customer service, I determined the **scope of the system and its requirements**, and created **maps and models** to communicate and ensure that the goals of the business were in line with the needs of customer.
 
+![swim lane model](/images/swim800.jpg)
+
 Stakeholders reviewed my work and when I had revised the contextual design to everybody's satisfaction, I proceeded with the feature's architecture and interaction design. I formed the system's backbone and massaged it into a set of **user flow models, wireframes**, and **site maps** using Axure. The architecture was informed by conversations with the developers about the constraints I had to work within, and my designs had to take into account the heavy backlog of the development team just prior to the holiday season. 
+
+![development tasks model](/images/devtasks800.jpg)
+
+![modal wireframe](/images/modalwireframe800.jpg)
 
 With only a few weeks until a Black Friday deadline, as well as the logistical risks and unknown customer demand, the feature was rolled out in two phases. The test phase lasted two weeks, was limited to only two products, allowed the logistical kinks to be more safely rolled out, and gave the developers more time to work on additional, more elaborate, UI features. I created **annotated mock-ups and documentation** for the developers, which gave them a comparative picture of both the immediate and future needs of their implementation.
 
