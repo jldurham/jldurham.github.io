@@ -9,6 +9,8 @@ categories: [project]
 
 ###A usability study to evaluate the user needs of the university of michigan's largest archive's website
 
+![bentley logo](/images/bentleylogocolor.png)
+
 ## the problem
 
 Established in 1935, the Bentley Historical Library is the campus archive of the University of Michigan and is located on its North Campus. The Bentley serves as a key archival repository for the state of Michigan, and its user base ranges from those associated with the University to anybody seeking information on Michigan and wider topics. The website is the main access point for both those unable to physically visit the archive and those on-site conducting research. 
