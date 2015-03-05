@@ -183,7 +183,10 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding-top: $spacing-unit;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 6em;
 }
 
 .page-heading {
