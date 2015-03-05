@@ -8,7 +8,9 @@ categories: [project]
 ---
 
 
-###A contextual inquiry study to find solutions for communication breakdowns in a large academic organization with several autonomous departments.
+###A contextual inquiry study to find solutions for communication breakdowns in a large academic organization.
+
+![mpharmacy logo](/images/mpharm.png)
 
 ## the problem
 
@@ -21,6 +23,8 @@ The **key problems** we identified were:
 * It is difficult for staff and faculty to find electronic documents and records in the shared drive of the college, which is the main repository of files for sharing and retrieving information; they do not have an efficient tool for accomplishing related functions and tasks.  
 * Communication flow is inefficient and there is a lack of coordination between staff regarding information policy and procedures; there is no mutual understanding of how their college-wide system works and the tools used by staff.
 * Many tools are obsolete and unused or infrequently used, while others are used but with difficulty.
+
+![early analysis map](/images/earlymap800.jpg)
 
 ## the solution
 
@@ -42,12 +46,24 @@ After we determined our project management and created a GANTT chart to guide ou
 
 **Interpretation sessions** followed each interview, in which we gathered the information communicated during our meetings with staff and converted it into models. We processed the information into **affinity notes**, and we used artifacts and images to create various models. The **models we created included an artifact, flow, swimming lane, physical and cultural assessment models**.  These models were then consolidated to present various elements of our project in a succinct and useful manner.
 
+![cultural model](/images/culturalmodel800.jpg)
+
+![cultural assessment model (section)](/images/cultasmt2800.jpg)
+
 Our models revealed the huge number of activities and processes within the organization, but most importantly, they also indicated that a lot of information relevant to these processes is common to several areas of the college. It was not surprising to find that their shared drive is disorganized and fragmented, and that every service and department has problems sharing, managing and retrieving their own information and data. Complicating matters further, there were a myriad of communication means used by the college: blog, website, UM's learning management system, internal website, email and paper shuffling. There were also several different operating systems used by faculty and staff. Our consolidated model narrowed these far-reaching issues down to the most essential points of concern, guided our path through these complicating factors as we brainstormed our recommendations.
 
+![artifact model](/images/artifactmodel800.jpg)
+
+![consolidated artifact model](/images/consolidated800.jpg)
+
 As an additional aid to process our gathered information, we sorted our affinity notes into logical categories to create an **affinity wall**. This sorting method allowed us to convert the notes and models into an organized perspective, which then allowed for a more methodical analysis of the data. The director of human resources toured the wall and provided feedback and questions that helped to create an even deeper understanding of the issues at hand.
+
+![affinity wall](/images/affinitydetail800.jpg)
 
 When we selected our recommendations, we narrowed down the major categories of analysis into what we felt were the three most significant approaches toward a solution at the college. These **findings and recommendations** were not precise directives, but rather a general guidance towards resolving the information flow issues at the college. Our recommendations were not extraordinarily surprising and ambitious, but rather satisfyingly articulated the needs and objectives for the system that would better satisfy it's users.
 
 ## the result
 
 Throughout our work, the college was supportive towards any necessary changes that would increase efficiency, as they are an organization that does important and diverse work, and was quite aware of the need for improvement in their policies and procedures for information flow.  The college had already identified some of their problems at the point of seeking our consultation, so the process of solving their problems was essentially underway before your work even began. It was our hope that with this additional insight, evidence and discovery, they would be able to accomplish their goals of becoming a better-integrated and more cohesive organization. **Our recommendations were received with enthusiasm when formally presented to key stakeholders, and provided the foundation and research that their internal web task force used to create a plan for restructuring their intranet, shared drive, and website. **
+
+My team mates were Inma Aleixos Borras, Rishav Bhomick, and Hongyu Chen.
