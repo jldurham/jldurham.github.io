@@ -300,8 +300,25 @@
     }
 }
 
+.likes {
+    width: 19%;
+    float: left;
 
-.project img {
+    @include media-query($on-palm) {
+        width: 100%;
+    }
+}
+
+.likes + .likes {
+   margin-left: 1.25%;
+
+    @include media-query($on-laptop) {
+        margin-left: 0;
+    }
+}
+
+.likes img {
+	width: 150px;
 }
 
 .project-header {
