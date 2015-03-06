@@ -358,3 +358,17 @@ body { margin: 0; }
 .rightColumn {
     padding: 1.25em;
 }
+
+/**
+ * Image with caption
+ */
+
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $grey-color;
+        margin-top: $spacing-unit / 3;
+        font-weight: 700;
+    }
+}

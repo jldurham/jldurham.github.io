@@ -25,7 +25,7 @@ With nowhere to start from but scratch, my first move was to gather as much info
 
 The **site requirements** emerged out of my research and I got a sense of the hurdles: formalizing refund policy, estimating demand, a scant amount of analytics to pull from, placing the embossing machine to the most efficient location, and hiring and training staff to support an interactive system that would be a user experience catastrophe without these pieces in place. With the leather department, distribution center, human resources and customer service, I determined the **scope of the system and its requirements**, and created **maps and models** to communicate and ensure that the goals of the business were in line with the needs of customer.
 
-![swim lane model](/images/swim800.jpg)
+{% include image.html img="/images/swim800.jpg" title="title for image" caption="caption for image" %}
 
 Stakeholders reviewed my work and when I had revised the contextual design to everybody's satisfaction, I proceeded with the feature's architecture and interaction design. I formed the system's backbone and massaged it into a set of **user flow models, wireframes**, and **site maps** using Axure. The architecture was informed by conversations with the developers about the constraints I had to work within, and my designs had to take into account the heavy backlog of the development team just prior to the holiday season. 
 
