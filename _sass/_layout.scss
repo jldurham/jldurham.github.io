@@ -334,29 +334,54 @@
  * About
  */
 
-*, *:before, *:after {
-  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
-}
- 
-body { margin: 0; }
- 
-.columnsContainer {
-    position: relative;
-    margin: .5em;
-}
- 
-.leftColumn {
+.left-column, .right-column {  
     padding: 1.25em; 
-    margin-bottom: .5em;
+    margin: .5em; 
 }
- 
+
 @media screen and (min-width: 47.5em ) {
-  .leftColumn { margin-right: 19.5em; }
- 
-  .rightColumn { position: absolute; top: 0; right: 0; width: 18.75em; }
+
+    .columns-container { 
+        float: left;
+    }
+
+  .left-column { 
+    width: 15.75em;
+    margin-right: -19.3em;
+    float: left;
+  }
+
+    .right-column { 
+    margin-left: 20em;
+    float: left;
+  }   
 }
-.rightColumn {
-    padding: 1.25em;
+
+.bottom-row {
+    clear: both;
+    float: left;
+}
+
+
+
+.p1 {
+    font-size: 2.5em;
+}
+
+.p2 {
+    @media screen and (min-width: 47.5em ) {
+        margin-left: 5em;
+    }
+    font-size: 2em;
+    margin-bottom: 1.25em;
+    margin-top: 1.25em;
+}
+
+.p3 {
+    font-size: 1.25em;
+    @media screen and (min-width: 47.5em ) {
+        margin-right: 7.5em;
+    }
 }
 
 /**

@@ -1,9 +1,9 @@
 ---
 layout: process
-title: process
+title: work
 ---
 
-## my process
+## about my work
 
 * project management i have often been at the helm of the whole design life cycle 
 
