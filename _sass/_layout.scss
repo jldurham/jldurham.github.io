@@ -423,8 +423,13 @@
     text-align: center;
 }
 
-.more-projects h1 {
+.more-projects h1, .some-likes > .wrapper > h1 {
     text-align: center;
+}
+
+.some-likes .project-header > h1 {
+    font-size: 0.9em;
+    text-align: left !important;
 }
 
 .project-wrapper {
