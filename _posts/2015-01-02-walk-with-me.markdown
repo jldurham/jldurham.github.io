@@ -2,7 +2,7 @@
 layout: post
 title:  walk with me
 subtitle: designer
-date:   2015-02-28 18:50:21
+date:   2015-01-04 18:50:21
 image: /images/walkcolor240.jpg
 categories: [project] 
 ---

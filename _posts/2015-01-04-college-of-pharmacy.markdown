@@ -2,7 +2,7 @@
 layout: post
 title:  um college of pharmacy
 subtitle: information architect
-date:   2015-02-28 18:50:21
+date:   2015-01-02 18:50:21
 image: /images/architect240color.jpg
 categories: [project] 
 ---

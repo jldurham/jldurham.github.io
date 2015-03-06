@@ -2,7 +2,7 @@
 layout: post
 title:  shinola detroit
 subtitle: designer
-date:   2015-02-28 18:50:21
+date:   2015-01-01 18:50:21
 image: /images/shinola240color.jpg
 categories: [project] 
 ---
