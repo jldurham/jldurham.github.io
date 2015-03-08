@@ -478,3 +478,33 @@
 .boldify {
     font-weight: 600;
 }
+
+/**
+ * Blog
+ */
+
+.post-list .post-link {
+    font-family: "Knewave";
+}
+
+@media screen and (min-width: 47.5em ) {
+
+    .post-list .left-column {
+        width: 25em;
+        margin-right: -28em;
+        padding: 0;
+        margin-left: 0;
+    }
+
+    .post-list .right-column {
+        margin-left: 30em;
+        padding: 0;
+    }
+}
+.post-list .right-column p {
+    font-size: 0.7em;
+}
+
+.post-list .bottom-row {
+    padding-top: 1em;
+}
