@@ -14,7 +14,7 @@ layout: home
             <img src="{{ post.image }}" />
         </a>
         <div class="project-header">
-            <h1>{{ post.title }}</h1>
+            <a href="{{ post.url | prepend: site.baseurl }}"><h1>{{ post.title }}</h1></a>
             <h2>{{ post.subtitle }}</h2>
         </div>
     </article>

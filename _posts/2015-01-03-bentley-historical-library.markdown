@@ -2,7 +2,7 @@
 layout: post
 title:  bentley historical library
 subtitle: researcher
-date:   2015-01-03 18:50:21
+date:   2015-01-02 18:50:21
 image: /images/bentley240color.jpg
 categories: [project] 
 ---
