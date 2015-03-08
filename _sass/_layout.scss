@@ -413,6 +413,7 @@
 
 .image-wrapper {
     text-align: center;
+    padding-bottom: 1.5em;
 
     .image-caption {
         color: $grey-color;
@@ -507,4 +508,8 @@
 
 .post-list .bottom-row {
     padding-top: 1em;
+}
+
+.post-list .right-column p {
+    font-size: 1em;
 }
