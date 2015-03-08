@@ -223,10 +223,11 @@
 }
 
 .post-title {
-    font-size: 42px;
-    letter-spacing: -1px;
+    font-size: 30px;
+    letter-spacing: 2px;
     text-align: center;
     line-height: 1;
+    font-family: "Knewave";
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -413,13 +414,18 @@
 
 .image-wrapper {
     text-align: center;
-    padding-bottom: 1.5em;
+    padding-bottom: 2.5em;
+    padding-top: 1.5em;
 
     .image-caption {
         color: $grey-color;
         margin-top: $spacing-unit / 3;
         font-weight: 700;
     }
+}
+
+.image-wrapper > img {
+    max-width: 600px;
 }
 
 .resume {
