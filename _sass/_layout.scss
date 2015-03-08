@@ -11,9 +11,10 @@
 }
 
 .site-title {
+    font-family: "Knewave";
     font-size: 26px;
-    line-height: 56px;
-    letter-spacing: -1px;
+    line-height: 49px;
+    letter-spacing: 2px;
     margin-bottom: 0;
     float: left;
 
@@ -275,7 +276,8 @@
     font-weight: 400;
     font-size: 4em;
     margin-bottom: 0;
-    font-family: "Abril Fatface";
+    font-family: "Knewave";
+    letter-spacing: 2px;
 }
 
 .title h2 {
@@ -385,6 +387,8 @@
 
 .p1 {
     font-size: 2.5em;
+    font-family: "Knewave";
+    letter-spacing: 2px;
 }
 
 .p2 {
@@ -469,4 +473,8 @@
 
 .project-wrapper > .project {
     width: initial;
+}
+
+.boldify {
+    font-weight: 600;
 }
