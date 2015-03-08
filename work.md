@@ -3,7 +3,7 @@ layout: process
 title: work
 ---
 
-## about my work
+## how i work
 
 * project management i have often been at the helm of the whole design life cycle 
 
