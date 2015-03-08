@@ -1,7 +1,7 @@
 ---
 layout: blog-post
 title:  "ux lessons from unlikely sources: johan cruyff"
-date:   2015-02-13 18:50:21
+date:   2015-02-19 18:50:21
 image: /images/cruyff800.jpg
 categories: [blog] 
 ---
