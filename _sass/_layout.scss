@@ -61,7 +61,7 @@
     @include media-query($on-palm) {
         position: absolute;
         top: 9px;
-        right: 30px;
+        right: 15px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
@@ -132,8 +132,9 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
+    margin: 0 auto;
+    width: 240px;
 }
 
 .footer-col {
@@ -290,8 +291,29 @@
     width: 24%;
     float: left;
 
-    @include media-query($on-palm) {
-        width: 100%;
+}
+
+
+
+@media only screen and (max-width : 768px) {
+    .project {
+        width: 50%;
+        padding-bottom: 2em;
+        margin: 0 auto;
+    }
+
+    .project img {
+        display: block;
+        margin: 0 auto !important;
+    }
+}
+
+
+@media only screen and (max-width : 480px) {
+    .project {
+        width: 240px;
+        float: none;
+        margin: 0 auto;
     }
 }
 
@@ -300,6 +322,11 @@
 
     @include media-query($on-laptop) {
         margin-left: 0;
+    }
+
+    @media only screen and (max-width : 480px) {
+        margin: 0 auto;
+        padding-top: 2em !important;
     }
 }
 
