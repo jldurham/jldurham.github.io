@@ -41,7 +41,7 @@ There is a traditional navigation bar at the top of the screen in the header, wh
 
 **Rapid sketching** was quite helpful early in the design process to generate a variety of ideas and approaches in the development of Walk with Me. If it were not for this work and attention to detail, many of the features and appearance of the system would not be implemented, most significantly the bulletin board for a search. Additionally, writing **personas and scenarios** provided a better sense of the needs of a wide range of users: I realized that if I centered my design too closely on the needs of an elderly woman, I wouldn’t be satisfying the needs of a young woman or middle-aged man who would also benefit from the system. By making **storyboards**, I could see Walk with Me in action, and the problems and needs of the users became much more prominent and apparent. This early sketching prepared me for the phase of architecture, wireframing, and prototyping that gave shape to all of the ideas and approaches that were weighed.
 
-{% include image.html img="/images/sketching800.jpg" title="sketches" caption="Rapid sketches (portion)." %}
+{% include image.html img="/images/sketching800.jpg" title="sketches" caption="Rapid sketches (portion). A small sample of hundreds drawn to explore early design ideas." %}
 
 {% include image.html img="/images/helenepersona800.jpg" title="persona" caption="Persona of an elderly user, Helene." %}
 
