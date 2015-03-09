@@ -436,11 +436,15 @@
 
 .p2 {
     @media screen and (min-width: 47.5em ) {
-        margin-left: 5em;
+        margin-left: 0;
     }
     font-size: 2em;
     margin-bottom: 1.25em;
     margin-top: 1.25em;
+}
+
+.p2 span:nth-child(4) {
+    white-space: nowrap;
 }
 
 .p3 {
@@ -579,11 +583,10 @@
 
     .bottom-row .right-column {
         padding: 1em 0 0 0;
+        margin: .5em !important;
+
     }
 
-    .right-column {
-        margin: .5em !important;
-    }
 }
 
 @media only screen and (max-width: 600px) {
