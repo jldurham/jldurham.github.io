@@ -26,6 +26,7 @@ There are three main types of users of the Bentley’s website:
 
 The Bentley has not made any significant changes to their website since it was first built in the mid-90s. An important resource for researchers that bolsters the university and contributes to it's academic reputation, the site had increasingly fallen short in meeting user needs; it remained in the past as users advanced in terms of their expectations for such a resource. **Staff were concerned by the number of issues experienced by users and time that was spent directing users in using the system, and knew that major changes and improvements were urgently needed.**
 
+{% include image.html img="/images/bentleyold800.jpg" title="screenshot of bentley website" caption="Screenshot of the Bentley website (as it appeared during the study)." %}
 ![screenshot of bentley website](/images/bentleyold800.jpg)
 
 
@@ -35,11 +36,11 @@ My team conducted a usability study over several months using a diverse range of
 
 We began our process of understanding the Bentley, it's users, and both their needs by **mapping the site**. As a website for an archival repository that has been accumulating content for two decades without any restructuring or redesign, the interaction map revealed a skeleton that was seriously detached from the apparent structure of the site as visible in the UI.  It gave us early clues to the central issue with the site: It's labyrinthine structure made resources inaccessible to users, and like a bird's nest, did not offer clear paths between areas of content.
 
-![interaction map](/images/site map800.jpg)
+{% include image.html img="/images/site map800.jpg" title="interaction map" caption="Interaction map." %}
 
 **Interviews with stakeholders** at the Bentley, including staff working in each department and high-level administrators, gave us a better sense of users and their needs. We distributed flyers at the Bentley to find participants for **user interviews**, and interviewed a combination of those who responded and a few advanced users recommended by staff. Based upon these conversations we had enough information to create a set of **personas and scenarios** that guided our study and helped to communicate our future recommendations.
 
-![user persona](/images/bentleypersona800.jpg)
+{% include image.html img="/images/bentleypersona800.jpg" title="persona" caption="Persona of a user interested in genealogical research." %}
 
 To gain additional user data, we **conducted a survey** to assess user needs and feelings about interacting with the Bentley website. The survey, created with Qualtrics, ran for two weeks, and was posted on the Bentley’s website, as well as distributed through our group’s social media and by word of mouth. The team then designed survey questions focused around our interview data and goal of trying to get a more granular picture of our users and their needs. As with our interview findings, our survey findings could be divided into: aspects of the site that users appreciated and aspects of the site that users struggled with. We also discovered that many of the survey responses fell in line with what we learned during the user interviews, further supporting complaints or compliments we had heard previously. 
 
@@ -47,9 +48,9 @@ The Bentley's website was evaluated with the ten heuristics proposed by Jakob Ni
 
 We conducted a **comparative analysis** of the Bentley website and six other websites across four dimensions: site architecture, navigation/interaction, design/aesthetics, and intended users. The Bentley website does not have direct or indirect competitors, because as a historical library, all of its information is unique. The criteria for selecting comparison products are based on the feedback from our earlier work, as well as an independent study of best practices across a wide variety of similar library websites. Parallel competitors studied were Library, Clarke Historical Library, Library of Congress, Reynolds Historical Library. A partial competitor was Ancestry.com and analogous competitor was Wikipedia. 
 
-We used our four dimensions to explore the corresponding websites. We used the scale of 1-5 (1= low/non-existent; 2 = exists but could be improved; 3 = decent; 4 = great; 5 = excellent) to grade each dimension. We mainly discussed the strengths of each competitor, and compared those strengths to decide the grade of the Bentley website. The rankings were then entered into a matrix and formed the basis of our report.
+We used our four dimensions to explore the corresponding websites. We used the scale of 1-5 (1= low/non-existent; 2 = exists but could be improved; 3 = decent; 4 = great; 5 = excellent) to grade each dimension. We mainly discussed the strengths of each competitor, and compared those strengths to decide the grade of the Bentley website. The rankings were then entered into a matrix and formed the basis of our report. One focus of our analysis was the Bentley's homepage search function, which we found be confusing, particularly as it searches the wider university library system by default, and the interaction is not designed in a way that allows for more complex searching as could be found on other sites. 
 
-![comparative analysis figure](/images/searchcomp800.jpg)
+{% include image.html img="/images/searchcomp800.jpg" title="comparative analysis figure" caption="Comparative analysis figure showing search on the Bentley, Mirlyn (University of Michigan library), and Library of Congress (L-R) homepages" %}
 
 **Usability testing** allowed our team to better understand the interaction between users and the archive’s website. Researchers use the site for a diverse range of tasks, but each ultimately depends on searching or browsing for material, and our goal was to simulate these tasks and have the results generate new findings and recommendations, or to confirm or correct our findings and recommendations. We asked five participants, ranging from advanced to novice technical researchers, to search for materials or information contained within the Bentley website. The users were given a chance to reflect on their experience by filling out a post-test questionnaire, and we used the testing notes and questionnaires to formulate our final findings and recommendations.
 
@@ -63,6 +64,8 @@ We presented our findings and recommendation to an audience of staff from across
 
 My teammates were J.J. Pionke, Jianqi Chen, Sharona Ginsberg, and Ziwei Xie. 
 
+{% include image.html img="/images/bentleynew800.jpg" title="screenshot of new bentley website" caption="Screenshot of the new, redesigned Bentley website." %}
+
 ## links
 
 <div class="links">
@@ -75,6 +78,6 @@ My teammates were J.J. Pionke, Jianqi Chen, Sharona Ginsberg, and Ziwei Xie.
 
 </div>
 
-![screenshot of new bentley website](/images/bentleynew800.jpg)
+
 
 
