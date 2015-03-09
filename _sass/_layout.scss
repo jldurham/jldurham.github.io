@@ -480,21 +480,21 @@
 
 @media only screen and (max-width : 768px){
 
-	.image-caption {
+	.image-caption, .image-wrapper > img {
 		max-width: 550px;
 	}
 }
 
 @media only screen and (max-width : 640px){
 
-	.image-caption {
+	.image-caption, .image-wrapper > img {
 		max-width: 400px;
 	}
 }
 
 @media only screen and (max-width : 480px){
 
-	.image-caption {
+	.image-caption, image-wrapper > img {
 		max-width: 300px;
 	}
 }
