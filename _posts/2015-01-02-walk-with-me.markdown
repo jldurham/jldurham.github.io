@@ -29,9 +29,9 @@ As a runner, my original inclination was to design a system influenced by the ru
 
 The site can be divided into two sections: the public area and the member area that can only be accessed through log-in. The public area of the site comprises a small portion of user activity on the site. Once a walking group has been found following a search, an application to join is sent to the group’s moderator via the system’s messaging system. If the moderator approves the application, an invitation is sent via email to the new user, who then creates an account and is able to access the member area of Walk with Me.
 
-{% include image.html img="/images/publicwireframe800.jpg" title="public section wireframe" caption="Wireframe of public area homepage." %}
+{% include image.html img="/images/publicwireframe2-800.jpg" title="public section wireframe" caption="Wireframe of public area homepage." %}
 
-{% include image.html img="/images/memberwireframe800.jpg" title="member section wireframe" caption="Wireframe of member area homepage." %}
+{% include image.html img="/images/memberwireframe2-800.jpg" title="member section wireframe" caption="Wireframe of member area homepage." %}
 
 **The primary use of the site is to post an “advertisement” for a walking buddy (specifying date, time, and type of environment such as a park or fitness center), and to search for walking buddies who have posted such advertisements.** Because groups are likely fewer than 20 members, there is an option to search an expanded network of groups in the local area. The link to these three primary functions: post a walk, search your group, and search your network, are at the focal center of the home page (Fig. A). Below, making up the rest of the central content area, is a news feed. A sidebar on the right provides access and teasers for the other primary functions: live tracking of other walkers (slides automatically), messaging (most recent), next walk reminder, buddies (most recent), and routes (most recent).
 
