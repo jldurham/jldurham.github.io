@@ -230,7 +230,7 @@
 }
 
 .post-title {
-    font-size: 30px;
+    font-size: 36px;
     letter-spacing: 2px;
     text-align: center;
     line-height: 1;
@@ -245,7 +245,7 @@
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 28px;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -253,7 +253,8 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 21px;
+        text-align: center;
 
         @include media-query($on-laptop) {
             font-size: 22px;
@@ -467,6 +468,9 @@
         color: $grey-color;
         margin-top: $spacing-unit / 3;
         font-weight: 700;
+        font-size: 13px;
+        margin-left: 200px;
+        max-width: 600px;
     }
 }
 
