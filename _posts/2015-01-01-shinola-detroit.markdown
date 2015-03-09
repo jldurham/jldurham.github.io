@@ -9,7 +9,9 @@ categories: [project]
 
 ### A design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
 
-![shinola logo](/images/shinola-logo.png)
+<div class="image-wrapper">
+<img id="first-image" src="/images/shinola-logo.png" />
+</div>
 
 ## the problem
 
@@ -29,7 +31,8 @@ The **site requirements** emerged out of my research and I got a sense of the hu
 
 Stakeholders reviewed my work and when I had revised the contextual design to everybody's satisfaction, I proceeded with the feature's architecture and interaction design. I formed the system's backbone and massaged it into a set of **user flow models, wireframes**, and **site maps** using Axure. The architecture was informed by conversations with the developers about the constraints I had to work within, and my designs had to take into account the heavy backlog of the development team just prior to the holiday season. 
 
-![development tasks model](/images/devtasks800.jpg)
+
+{% include image.html img="/images/devtasks800.jpg" title="development tasks model" caption="caption for image" %}
 
 ![modal wireframe](/images/modalwireframe800.jpg)
 
@@ -65,6 +68,11 @@ Most importantly, this system bolstered both the company's values and goals, and
 
 ## links
 
-[visit shinola and demo the system](http://www.shinola.com/shop/leather/monogram-collection/ipad-mini-envelope.html#color=Natural)
-
-[see the test phase mobile prototype](http://az2trs.axshare.com/monogram_selection_p1_mobile.html)
+<div class="links">
+	<p>
+		<a href="http://www.shinola.com/shop/leather/monogram-collection/ipad-mini-envelope.html#color=Natural">visit shinola and demo the system</a>
+	</p>
+	<p>
+		<a href="http://az2trs.axshare.com/monogram_selection_p1_mobile.html">see the test phase mobile prototype</a>
+	</p>
+</div>

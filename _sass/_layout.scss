@@ -364,7 +364,7 @@
 .project-header h1 {
     text-align: center;
     font-family: $base-font-family;
-    font-size: 1.2em;
+    font-size: 1em;
     margin: 0;
     padding: 0;
     font-weight: 700;
@@ -475,12 +475,13 @@
 }
 
 .resume {
-    width: 150px;
-    height: 50px;
+    width: 100px;
+    height: 35px;
     font-family: $base-font-family;
-    background-color: white;
+    background-color: #fdfdfd;
     border: 1px solid black;
     font-size: 1em;
+
 }
 
 .resume:hover {
@@ -506,15 +507,30 @@
     max-width: 850px;    
 }
 
-.more-projects h1, .some-likes > .wrapper > h1 {
+.some-likes > .wrapper > h1 {
     text-align: center;
     margin-bottom: 1.25em;
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.more-projects > .wrapper > h1 {
+    font-size: 1.5em;
+    font-weight: 700;
+}
+
+.more-projects h1  {
+    text-align: center;
+    margin-bottom: 1.25em;
+    font-size: 1em;
+    font-weight: 300;
 }
 
 .some-likes .project-header > h1 {
     font-size: 1em;
     text-align: center !important;
     font-family: $base-font-family;
+    font-weight: 300;
 
 }
 
@@ -635,4 +651,11 @@
     letter-spacing: 2px;
     font-family: "Knewave";
     margin-right: 0.5em;
+}
+.links {
+    text-align: center;
+}
+
+#first-image {
+    width: 100px !important;
 }

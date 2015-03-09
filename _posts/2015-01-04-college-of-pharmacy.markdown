@@ -10,7 +10,9 @@ categories: [project]
 
 ###A contextual inquiry study to find solutions for communication breakdowns in a large academic organization.
 
-![mpharmacy logo](/images/mpharm.png)
+<div class="image-wrapper">
+	<img id="first-image" src="/images/mpharm.png" />
+</div>
 
 ## the problem
 

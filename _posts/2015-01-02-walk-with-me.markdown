@@ -9,7 +9,9 @@ categories: [project]
 
 ###A web application to help people, particularly older citizens, find walking buddies in their local community and become more active in their daily lives.
 
-![walk with me logo](/images/walklogo.jpg)
+<div class="image-wrapper">
+	<img id="first-image" src="/images/walklogo.jpg" />
+</div>
 
 ## the problem
 
@@ -76,6 +78,10 @@ Upon these recommendations, I made several significant changes to the organizati
 
 ## links
 
-![prototype screenshot](/images/walkscreenshot.jpg)
+![prototype screenshot](/images/walkscreenshot800.jpg)
 
-[explore the interactive prototype (search demo)](http://fg5w8e.axshare.com/public_home.html)
+<div class="links">
+<p>
+	<a href="http://fg5w8e.axshare.com/public_home.html">explore the interactive prototype (search demo)</a>
+</p>
+</div>
