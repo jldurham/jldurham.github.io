@@ -10,7 +10,7 @@ categories: [project]
 ### A design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
 
 <div class="image-wrapper">
-<img id="first-image" src="/images/shinola-logo.png" />
+<img id="first-image" src="/images/shinolalogo.png" />
 </div>
 
 ## the problem
@@ -27,14 +27,14 @@ With nowhere to start from but scratch, my first move was to gather as much info
 
 The **site requirements** emerged out of my research and I got a sense of the hurdles: formalizing refund policy, estimating demand, a scant amount of analytics to pull from, placing the embossing machine to the most efficient location, and hiring and training staff to support an interactive system that would be a user experience catastrophe without these pieces in place. With the leather department, distribution center, human resources and customer service, I determined the **scope of the system and its requirements**, and created **maps and models** to communicate and ensure that the goals of the business were in line with the needs of customer.
 
-{% include image.html img="/images/swim800.jpg" title="title for image" caption="caption for image" %}
+{% include image.html img="/images/swim800.jpg" title="swim lane model" caption="Swim Lane model illustrates shared responsibility between stakeholders" %}
 
 Stakeholders reviewed my work and when I had revised the contextual design to everybody's satisfaction, I proceeded with the feature's architecture and interaction design. I formed the system's backbone and massaged it into a set of **user flow models, wireframes**, and **site maps** using Axure. The architecture was informed by conversations with the developers about the constraints I had to work within, and my designs had to take into account the heavy backlog of the development team just prior to the holiday season. 
 
 
-{% include image.html img="/images/devtasks800.jpg" title="development tasks model" caption="caption for image" %}
+{% include image.html img="/images/devtasks800.jpg" title="development tasks model" caption="Flow Model shows developers where and what tasks are to be performed within the system's structure" %}
 
-![modal wireframe](/images/modalwireframe800.jpg)
+{% include image.html img="/images/modalwireframe800.jpg" title="modal wireframe" caption="Wireframe of the personalization modal at the center of the monogramming system. Here users select their monogram before adding the product to cart." %}
 
 Following the heavy conceptual work, I worked through the information and interface design and into the feature's layer of **visual design**. The heart of the monogramming experience is the personalization modal that appears next to the Add to Cart button on the product detail pages for items eligible for monogramming. I faced high stakes in terms of communicating refund policy to customers, and needed to ensure the "no refunds under any circumstances" was highly visible, clear, but not intimidating and likely to steer customers away from the checkout funnel. I also needed to contend with the short timeline, busy developers, and difficulty of acquiring assets that would show what the many colors of leather look like when monogrammed. Leather needed to be photographed with embossed letters from the machine, and doing so involved a lot of coordination, time, and decisions to determine whether all, none, or some products would be stamped and photographed (which would then have a large impact on my design approach).
 
