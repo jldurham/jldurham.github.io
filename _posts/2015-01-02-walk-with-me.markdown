@@ -45,11 +45,11 @@ There is a traditional navigation bar at the top of the screen in the header, wh
 
 {% include image.html img="/images/helenepersona800.jpg" title="persona" caption="Persona of an elderly user, Helene." %}
 
-{% include image.html img="/images/storyboard800.jpg" title="storyboard" caption="Storyboard based upon scenario written for the Helene persona (portion)." %}
+{% include image.html img="/images/storyboard800.jpg" title="storyboard" caption="Storyboard based upon a scenario written for  Helene (portion)." %}
 
 I used several **models** to weigh design alternatives and build design rationale for individual features. The system's most important and central feature is tool that allows users to search for walking buddies. It is the most essential and frequently used tool, and I used a **QOC (Questions, Options, Criteria) model** to help me answer the question: How does a walking group member find a walking buddy? I generated three answers that I explored as possible approaches for this particular feature.
 
-{% include image.html img="/images/QOC800.jpg" title="QOC model" caption="QOC (Questions, Options, Criteria) model to communicate design rationale for search function." %}
+{% include image.html img="/images/QOC800.jpg" title="QOC model" caption="QOC model to communicate design rationale for search function." %}
 
 **Approach 1**: Advanced search with sortable results. This approach would be the most classic or standard method one could use to find something they’re searching for online. It could have a wide variety of search fields, advanced filters, and sortable results to find a buddy. It is likely that novice and senior users could manage the most simple search, but it is not likely that they can take advantage of the most advanced searches that would provide the best results for them. As the membership that will be searched is fairly small (only a dozen or so people at the most), this sort of search is much more cumbersome than what is truly needed. Additionally, there isn’t a way that those can share their availability can participate in the search function and feel that they are part of a collaborative community in every feature.
 
