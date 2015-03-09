@@ -29,9 +29,9 @@ As a runner, my original inclination was to design a system influenced by the ru
 
 The site can be divided into two sections: the public area and the member area that can only be accessed through log-in. The public area of the site comprises a small portion of user activity on the site. Once a walking group has been found following a search, an application to join is sent to the group’s moderator via the system’s messaging system. If the moderator approves the application, an invitation is sent via email to the new user, who then creates an account and is able to access the member area of Walk with Me.
 
-![public section wireframe](/images/publicwireframe800.jpg)
+{% include image.html img="/images/publicwireframe800.jpg" title="public section wireframe" caption="Wireframe of public area homepage." %}
 
-![member section wireframe](/images/memberwireframe800.jpg)
+{% include image.html img="/images/memberwireframe800.jpg" title="member section wireframe" caption="Wireframe of member area homepage." %}
 
 **The primary use of the site is to post an “advertisement” for a walking buddy (specifying date, time, and type of environment such as a park or fitness center), and to search for walking buddies who have posted such advertisements.** Because groups are likely fewer than 20 members, there is an option to search an expanded network of groups in the local area. The link to these three primary functions: post a walk, search your group, and search your network, are at the focal center of the home page (Fig. A). Below, making up the rest of the central content area, is a news feed. A sidebar on the right provides access and teasers for the other primary functions: live tracking of other walkers (slides automatically), messaging (most recent), next walk reminder, buddies (most recent), and routes (most recent).
 
@@ -41,29 +41,29 @@ There is a traditional navigation bar at the top of the screen in the header, wh
 
 **Rapid sketching** was quite helpful early in the design process to generate a variety of ideas and approaches in the development of Walk with Me. If it were not for this work and attention to detail, many of the features and appearance of the system would not be implemented, most significantly the bulletin board for a search. Additionally, writing **personas and scenarios** provided a better sense of the needs of a wide range of users: I realized that if I centered my design too closely on the needs of an elderly woman, I wouldn’t be satisfying the needs of a young woman or middle-aged man who would also benefit from the system. By making **storyboards**, I could see Walk with Me in action, and the problems and needs of the users became much more prominent and apparent. This early sketching prepared me for the phase of architecture, wireframing, and prototyping that gave shape to all of the ideas and approaches that were weighed.
 
-![sketches](/images/sketching800.jpg)
+{% include image.html img="/images/sketching800.jpg" title="sketches" caption="Rapid sketches (portion)." %}
 
-![user persona](/images/helenepersona800.jpg)
+{% include image.html img="/images/helenepersona800.jpg" title="persona" caption="Persona of an elderly user, Helene." %}
 
-![storyboard (section)](/images/storyboard800.jpg)
+{% include image.html img="/images/storyboard800.jpg" title="storyboard" caption="Storyboard based upon scenario written for the Helene persona (portion)." %}
 
-I used several **models** to weigh design alternatives and explore design rationale for individual features. The system's most important and central feature is tool that allows users to search for walking buddies. It is the most essential and frequently used tool, and I used a **QOC model** to help me answer the question: How does a walking group member find a walking buddy? I generated three answers that I explored as possible approaches for this particular feature.
+I used several **models** to weigh design alternatives and build design rationale for individual features. The system's most important and central feature is tool that allows users to search for walking buddies. It is the most essential and frequently used tool, and I used a **QOC (Questions, Options, Criteria) model** to help me answer the question: How does a walking group member find a walking buddy? I generated three answers that I explored as possible approaches for this particular feature.
 
-![QOC model](/images/QOC800.jpg)
+{% include image.html img="/images/QOC800.jpg" title="QOC model" caption="QOC (Questions, Options, Criteria) model to communicate design rationale for search function." %}
 
 **Approach 1**: Advanced search with sortable results. This approach would be the most classic or standard method one could use to find something they’re searching for online. It could have a wide variety of search fields, advanced filters, and sortable results to find a buddy. It is likely that novice and senior users could manage the most simple search, but it is not likely that they can take advantage of the most advanced searches that would provide the best results for them. As the membership that will be searched is fairly small (only a dozen or so people at the most), this sort of search is much more cumbersome than what is truly needed. Additionally, there isn’t a way that those can share their availability can participate in the search function and feel that they are part of a collaborative community in every feature.
 
-![approach 1](/images/aproach1-800.jpg)
+{% include image.html img="/images/aproach1-800.jpg" title="approach 1" caption="Approach 1 (from QOC options): Advanced search with sortable results." %}
 
 **Approach 2**: Calendar view with joinable events. This approach is an interactive calendar system similar to Google Calendars. The most used function of the site is a calendar and scheduling system. Through this approach, searching can be incorporated into the feature that the user will next use, after finding a buddy, to schedule the event. When a user posts in the calendar that they are available and looking for a partner on a certain day and time, the searcher can then click on the event and send an offer that the poster can accept or deny. While this feature makes more sense for a small and more intimate population, but it is perhaps too complex for an elderly or novice user.
 
-![approach 2](/images/approach2-800.jpg)
+{% include image.html img="/images/approach2-800.jpg" title="approach2-800" caption="Approach 2 (from QOC options): Calendar view with joinable events." %}
 
 **Approach 3**: Skeuomorphic bulletin board. This approach is the one I’ve chosen. It was an idea I had sketched in an earlier assignment. It is similar to the calendar view approach, but it eliminates the calendar function that may be too overwhelming for elderly or novice users (the calendar can now remain as a separate, simple scheduling device separate from search). This bulletin board, that will include a graphic element that looks like notes being pinned to a corkboard, is simple and converts a beloved icon of civic engagement and community centers to the web. When a walking event is confirmed between both parties, the posted note will be removed from the board. For one of the most repeatedly used features of the site, it is, importantly, fun and visually interesting as well as efficient and easy to use.
 
-![approach 3](/images/approach3-800.jpg)
+{% include image.html img="/images/approach3-800.jpg" title="approach 3" caption="Approach 3 (from QOC options): Skeuomorphic bulletin board." %}
 
-I chose the third approach, despite my hesitance to go the skeuomorphic route as a designer. I had to look beyond my own tastes and see that for the elderly, a skeuomorphic approach is easy to follow. My style as a designer would make the bulletin board as abstract and modern as possible, which would make it appealing to younger users.
+I chose the third approach, despite my hesitance to go the skeuomorphic route as a designer. Ultimately, I had to look beyond my own tastes and accept that for the older users, a skeuomorphic approach is easy to follow and these users heavily rely upon such direct symbolism. My style as a designer would still be present, and emerge as I modified the skeuomorphism to make the bulletin board as abstract and modern as possible. I didn't want the aesthetics to repel younger users, who would likely find this approach (in an unmodified form) pretty dated.
 
 A **paper prototype** was the first time that my design was presented for evaluation, and user tests were conducted on the low fidelity model. At the conclusion of this testing, I collected a number of important issues based upon the feedback:
 
@@ -76,12 +76,14 @@ A **paper prototype** was the first time that my design was presented for evalua
 
 Upon these recommendations, I made several significant changes to the organization and layout of the site that were much easier to change at this phase. I used a high-fidelity prototype to work through the most important and unique function of the system: searching. It would have been extremely inefficient to make such drastic changes to Walk with Me after hours and hours spent using Axure, my software choice. As I got closer to the final design, I made some subtle iterations of the system with the **hi-fi prototype**. I found the iterative approach the most important factor in the improvement of the site. With each passage of feedback and critique, in both the low and high fidelity prototyping stages, I was able to see the design with new and fresh eyes.
 
-## links
+{% include image.html img="/images/walkscreenshot800.jpg" title="screenshot of prototype" caption="Screenshot of interaction prototype." %}
 
-![prototype screenshot](/images/walkscreenshot800.jpg)
+## links
 
 <div class="links">
 <p>
 	<a href="http://fg5w8e.axshare.com/public_home.html">explore the interactive prototype (search demo)</a>
 </p>
 </div>
+
+
