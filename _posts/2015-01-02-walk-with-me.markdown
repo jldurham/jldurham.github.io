@@ -76,7 +76,7 @@ A **paper prototype** was the first time that my design was presented for evalua
 
 Upon these recommendations, I made several significant changes to the organization and layout of the site that were much easier to change at this phase. I used a high-fidelity prototype to work through the most important and unique function of the system: searching. It would have been extremely inefficient to make such drastic changes to Walk with Me after hours and hours spent using Axure, my software choice. As I got closer to the final design, I made some subtle iterations of the system with the **hi-fi prototype**. I found the iterative approach the most important factor in the improvement of the site. With each passage of feedback and critique, in both the low and high fidelity prototyping stages, I was able to see the design with new and fresh eyes.
 
-{% include image.html img="/images/walkscreenshot800.jpg" title="screenshot of prototype" caption="Screenshot of interaction prototype." %}
+{% include image.html img="/images/walkscreenshot800.jpg" title="screenshot of prototype" caption="Screenshot of interactive prototype." %}
 
 ## links
 
