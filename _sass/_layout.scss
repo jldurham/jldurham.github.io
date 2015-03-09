@@ -423,6 +423,17 @@
     letter-spacing: 2px;
 }
 
+@media only screen and (max-width: 320px) {
+    .p1 {
+        font-size: 1.5em;
+    }
+
+    .p2 {
+        font-size: 1.25em !important;
+    }
+}
+
+
 .p2 {
     @media screen and (min-width: 47.5em ) {
         margin-left: 5em;
