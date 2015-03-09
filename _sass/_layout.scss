@@ -384,9 +384,7 @@
     float: left;
 }
 
-
-
-.p1 {
+.p1, #how-i-work {
     font-size: 2.5em;
     font-family: "Knewave";
     letter-spacing: 2px;
@@ -518,4 +516,39 @@
 
 .post-list .right-column p {
     font-size: 1em;
+}
+
+/**
+ * Process
+ */
+
+#how-i-work {
+    text-align:center;
+}
+
+.process li {
+    list-style-type: none;
+}
+
+.process h2 {
+    font-size: 2.5em;
+    font-family: "Knewave";
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+.process li + li {
+    margin-top: 2em;
+}
+
+.process p {
+    text-align: center;
+    font-size: 1em;
+}
+
+.subheading {
+    font-size: 1.5em;
+    letter-spacing: 2px;
+    font-family: "Knewave";
+    margin-right: 0.5em;
 }
