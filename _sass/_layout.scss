@@ -545,9 +545,46 @@
     font-size: 1em;
 }
 
+.post-list li + li {
+    padding-top: 18em;
+}
+
+@media only screen and (max-width : 768px) {
+    .top-row {
+        padding: .5em;
+    }
+
+    .bottom-row .left-column {
+        padding: 0;
+        margin-left: .5em;
+        margin-right: .5em;
+    }
+
+    .bottom-row .right-column {
+        padding: 1em 0 0 0;
+    }
+
+    .right-column {
+        margin: .5em !important;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .post-list li + li{
+        padding-top: 38em;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .post-list li + li{
+        padding-top: 37em !important;
+    }
+}
+
 /**
  * Process
  */
+
 
 #how-i-work {
     text-align:center;
