@@ -38,6 +38,12 @@
     }
 }
 
+@media only screen and (max-width: 320px) {
+    .site-subtitle {
+        display: none;
+    }
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
