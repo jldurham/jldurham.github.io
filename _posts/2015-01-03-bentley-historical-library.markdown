@@ -7,11 +7,12 @@ image: /images/bentley240color.jpg
 categories: [project] 
 ---
 
-###A usability study to evaluate the user needs of the university of michigan's largest archive's website
+### A usability study to evaluate the user needs of the university of michigan's largest archive's website
 
 <div class="image-wrapper">
 	<img id="first-image" src="/images/bentleylogocolor.png"/>
 </div>
+
 ## the problem
 
 Established in 1935, the Bentley Historical Library is the campus archive of the University of Michigan and is located on its North Campus. The Bentley serves as a key archival repository for the state of Michigan, and its user base ranges from those associated with the University to anybody seeking information on Michigan and wider topics. The website is the main access point for both those unable to physically visit the archive and those on-site conducting research. 
@@ -27,8 +28,6 @@ There are three main types of users of the Bentley’s website:
 The Bentley has not made any significant changes to their website since it was first built in the mid-90s. An important resource for researchers that bolsters the university and contributes to it's academic reputation, the site had increasingly fallen short in meeting user needs; it remained in the past as users advanced in terms of their expectations for such a resource. **Staff were concerned by the number of issues experienced by users and time that was spent directing users in using the system, and knew that major changes and improvements were urgently needed.**
 
 {% include image.html img="/images/bentleyold800.jpg" title="screenshot of bentley website" caption="Screenshot of the Bentley website (as it appeared during the study)." %}
-![screenshot of bentley website](/images/bentleyold800.jpg)
-
 
 ## the process
 
@@ -36,7 +35,7 @@ My team conducted a usability study over several months using a diverse range of
 
 We began our process of understanding the Bentley, it's users, and both their needs by **mapping the site**. As a website for an archival repository that has been accumulating content for two decades without any restructuring or redesign, the interaction map revealed a skeleton that was seriously detached from the apparent structure of the site as visible in the UI.  It gave us early clues to the central issue with the site: It's labyrinthine structure made resources inaccessible to users, and like a bird's nest, did not offer clear paths between areas of content.
 
-{% include image.html img="/images/site map800.jpg" title="interaction map" caption="Interaction map." %}
+{% include image.html img="/images/sitemap.jpg" title="interaction map" caption="Interaction map." %}
 
 **Interviews with stakeholders** at the Bentley, including staff working in each department and high-level administrators, gave us a better sense of users and their needs. We distributed flyers at the Bentley to find participants for **user interviews**, and interviewed a combination of those who responded and a few advanced users recommended by staff. Based upon these conversations we had enough information to create a set of **personas and scenarios** that guided our study and helped to communicate our future recommendations.
 

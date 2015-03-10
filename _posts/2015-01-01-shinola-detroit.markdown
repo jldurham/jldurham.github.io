@@ -31,23 +31,15 @@ The **site requirements** emerged out of my research and I got a sense of the hu
 
 Stakeholders reviewed my work and when I had revised the contextual design to everybody's satisfaction, I proceeded with the feature's architecture and interaction design. I formed the system's backbone and massaged it into a set of **user flow models, wireframes**, and **site maps** using Axure. The architecture was informed by conversations with the developers about the constraints I had to work within, and my designs had to take into account the heavy backlog of the development team just prior to the holiday season. 
 
-{% include image.html img="/images/devtasks800.jpg" title="development tasks model" caption="Flow Model shows developers their tasks as they fit within the system's structure" %}
-
-{% include image.html img="/images/modalwireframe800.jpg" title="modal wireframe" caption="Wireframe of the personalization modal. Here users select their monogram before adding the product to cart." %}
+{% include image-pair.html imgOne="/images/devtasks800.jpg" titleOne="development tasks model" captionOne="Flow Model shows developers their tasks as they fit within the system's structure" imgTwo="/images/modalwireframe800.jpg" titleTwo="modal wireframe" captionTwo="Wireframe of the personalization modal. Here users select their monogram before adding the product to cart." %}
 
 Following the heavy conceptual work, I worked through the information and interface design and into the feature's layer of **visual design**. The heart of the monogramming experience is the personalization modal that appears next to the Add to Cart button on the product detail pages for items eligible for monogramming. I faced high stakes in terms of communicating refund policy to customers, and needed to ensure the "no refunds under any circumstances" was highly visible, clear, but not intimidating and likely to steer customers away from the checkout funnel. I also needed to contend with the short timeline, busy developers, and difficulty of acquiring assets that would show what the many colors of leather look like when monogrammed. Leather needed to be photographed with embossed letters from the machine, and doing so involved a lot of coordination, time, and decisions to determine whether all, none, or some products would be stamped and photographed (which would then have a large impact on my design approach).
 
-{% include image.html img="/images/pdpscreenshot800.jpg" title="product detail page screenshot" caption="Screenshot of product detail page. My design added the 'Add monogram' checkbox and 'See Details' interactions." %}
-
-{% include image.html img="/images/faqcomp800.jpg" title="faq modal comp" caption="Comp of FAQ modal. Before users select to add monogramming they can review critical information and policy by clicking 'See Details'." %}
+{% include image-pair.html imgOne="/images/pdpscreenshot800.jpg" titleOne="product detail page screenshot" captionOne="Screenshot of product detail page. My design added the 'Add monogram' checkbox and 'See Details' interactions." imgTwo="/images/faqcomp800.jpg" titleTwo="faq modal comp" captionTwo="Comp of FAQ modal. Before users select to add monogramming they can review critical information and policy by clicking 'See Details'." %}
 
 With only a few weeks until a Black Friday deadline, as well as the logistical risks and unknown customer demand, the feature was rolled out in two phases. The test phase lasted two weeks, was limited to only two products, allowed the logistical kinks to be more safely rolled out, and gave the developers more time to work on additional, more elaborate, UI features. I created **annotated mock-ups and documentation** for the developers, which gave them a comparative picture of both the immediate and future needs of their implementation.
 
-{% include image.html img="/images/modaltestmock800.jpg" title="mockup of test phase modal" caption="Mock-up of personalization modal. This test version was expanded for the full release with preview functionality." %}
-
-
-{% include image.html img="/images/designalt800.jpg" title="design alternatives" caption="Design alternatives for image to show monogram location on products. The bottom right option was chosen (a custom illustration I drew)." %}
-
+{% include image-pair.html imgOne="/images/modaltestmock800.jpg" titleOne="mockup of test phase modal" captionOne="Mock-up of personalization modal. This test version was expanded for the full release with preview functionality." imgTwo="/images/designalt800.jpg" titleTwo="design alternatives" captionTwo="Design alternatives for image to show monogram location on products. The bottom right option was chosen (a custom illustration I drew)." %}
 
 I walked the art director and a lead visual designer through the **interactive prototype**, which I made in Axure, and produced many iterations based upon their feedback and some collaboration. The second release included a landing page for monogrammable items, a front page banner and email campaign designed within the art department based upon my specifications and wireframes. **High-fidelity comps**, which I created in Illustrator, were distributed to stakeholders for review and approval before developers fully dug into implementation. I guided the developers through the tasks at hand and oversaw **testing and review**.
 
@@ -59,9 +51,7 @@ Beyond the system's ability to meet business goals and provide customers with a 
 
 Most importantly, this system bolstered both the company's values and goals, and those of its customers', by allowing them to transform their leather goods from products into timeless, hand-crafted keepsakes.
 
-{% include image.html img="/images/monogrampreviewcomp800.jpg" title="final modal comp" caption="Final comp for personalization modal." %}
-
-{% include image.html img="/images/modalfinalscreenshot800.jpg" title="modal screenshot" caption="Screenshot of personalization modal following the full monogramming release." %}
+{% include image-pair.html imgOne="/images/monogrampreviewcomp800.jpg" titleOne="final modal comp" captionOne="Final comp for personalization modal." imgTwo="/images/modalfinalscreenshot800.jpg" titleTwo="modal screenshot" captionTwo="Screenshot of personalization modal following the full monogramming release." %}
 
 ## links
 

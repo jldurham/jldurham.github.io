@@ -1,0 +1,14 @@
+<div class="image-pair-wrapper">
+    <div class="image-pair-one">
+        <img src="{{ include.imgOne | prepend: site.baseurl }}" alt="{{ include.titleOne }}"/>
+        {% if include.captionOne %}
+        <p class="image-caption">{{ include.captionOne }}</p>
+        {% endif %}
+    </div>
+    <div class="image-pair-two">
+        <img src="{{ include.imgTwo | prepend: site.baseurl }}" alt="{{ include.titleTwo }}"/>
+        {% if include.captionTwo %}
+        <p class="image-caption">{{ include.captionTwo }}</p>
+        {% endif %}
+    </div>
+</div>

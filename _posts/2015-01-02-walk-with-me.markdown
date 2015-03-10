@@ -29,9 +29,7 @@ As a runner, my original inclination was to design a system influenced by the ru
 
 The site can be divided into two sections: the public area and the member area that can only be accessed through log-in. The public area of the site comprises a small portion of user activity on the site. Once a walking group has been found following a search, an application to join is sent to the group’s moderator via the system’s messaging system. If the moderator approves the application, an invitation is sent via email to the new user, who then creates an account and is able to access the member area of Walk with Me.
 
-{% include image.html img="/images/publicwireframe2-800.jpg" title="public section wireframe" caption="Wireframe of public area homepage." %}
-
-{% include image.html img="/images/memberwireframe2-800.jpg" title="member section wireframe" caption="Wireframe of member area homepage." %}
+{% include image-pair.html imgOne="/images/publicwireframe2-800.jpg" titleOne="public section wireframe" captionOne="Wireframe of public area homepage."  imgTwo="/images/memberwireframe2-800.jpg" titleTwo="member section wireframe" captionTwo="Wireframe of member area homepage." %}
 
 **The primary use of the site is to post an “advertisement” for a walking buddy (specifying date, time, and type of environment such as a park or fitness center), and to search for walking buddies who have posted such advertisements.** Because groups are likely fewer than 20 members, there is an option to search an expanded network of groups in the local area. The link to these three primary functions: post a walk, search your group, and search your network, are at the focal center of the home page (Fig. A). Below, making up the rest of the central content area, is a news feed. A sidebar on the right provides access and teasers for the other primary functions: live tracking of other walkers (slides automatically), messaging (most recent), next walk reminder, buddies (most recent), and routes (most recent).
 
@@ -43,9 +41,7 @@ There is a traditional navigation bar at the top of the screen in the header, wh
 
 {% include image.html img="/images/sketching800.jpg" title="sketches" caption="Rapid sketches (portion). A small sample of hundreds drawn to explore early design ideas." %}
 
-{% include image.html img="/images/helenepersona800.jpg" title="persona" caption="Persona of an elderly user, Helene." %}
-
-{% include image.html img="/images/storyboard800.jpg" title="storyboard" caption="Storyboard based upon a scenario written for  Helene (portion)." %}
+{% include image-pair.html imgOne="/images/helenepersona800.jpg" titleOne="persona" captionOne="Persona of an elderly user, Helene." imgTwo="/images/storyboard800.jpg" titleTwo="storyboard" captionTwo="Storyboard based upon a scenario written for  Helene (portion)." %}
 
 I used several **models** to weigh design alternatives and build design rationale for individual features. The system's most important and central feature is tool that allows users to search for walking buddies. It is the most essential and frequently used tool, and I used a **QOC (Questions, Options, Criteria) model** to help me answer the question: How does a walking group member find a walking buddy? I generated three answers that I explored as possible approaches for this particular feature.
 
@@ -72,7 +68,9 @@ A **paper prototype** was the first time that my design was presented for evalua
 * The navigation bar repeats a lot of links found elsewhere on the front page.
 * There is a lot of space allotted to features that may be used infrequently, such as walk statistic entry, health measurement entry, the journal area, and fitness resources.
 
+<div style="text-align: center; padding: 2em 0">
 <iframe src="https://player.vimeo.com/video/89879882?color=c73320" width="800" height="450" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</div>
 
 Upon these recommendations, I made several significant changes to the organization and layout of the site that were much easier to change at this phase. I used a high-fidelity prototype to work through the most important and unique function of the system: searching. It would have been extremely inefficient to make such drastic changes to Walk with Me after hours and hours spent using Axure, my software choice. As I got closer to the final design, I made some subtle iterations of the system with the **hi-fi prototype**. I found the iterative approach the most important factor in the improvement of the site. With each passage of feedback and critique, in both the low and high fidelity prototyping stages, I was able to see the design with new and fresh eyes.
 

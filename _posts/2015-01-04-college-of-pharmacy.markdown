@@ -48,15 +48,11 @@ After we determined our project management and created a GANTT chart to guide ou
 
 **Interpretation sessions** followed each interview, in which we gathered the information communicated during our meetings with staff and converted it into models. We processed the information into **affinity notes**, and we used artifacts and images to create various models. The **models we created included an artifact, flow, swimming lane, physical and cultural assessment models**.  These models were then consolidated to present various elements of our project in a succinct and useful manner.
 
-{% include image.html img="/images/culturalmodel800.jpg" title="cultural model" caption="Cultural model from an interpretation session that followed an interview with staff." %}
-
-{% include image.html img="/images/cultasmt2800.jpg" title="cultural assessment model" caption="Cultural assessment model (one many assessments performed)." %}
+{% include image-pair.html imgOne="/images/culturalmodel800.jpg" titleOne="cultural model" captionOne="Cultural model from an interpretation session that followed an interview with staff." imgTwo="/images/cultasmt2800.jpg" titleTwo="cultural assessment model" captionTwo="Cultural assessment model (one many assessments performed)." %}
 
 Our models revealed the huge number of activities and processes within the organization, but most importantly, they also indicated that a lot of information relevant to these processes is common to several areas of the college. It was not surprising to find that their shared drive is disorganized and fragmented, and that every service and department has problems sharing, managing and retrieving their own information and data. Complicating matters further, there were a myriad of communication means used by the college: blog, website, UM's learning management system, internal website, email and paper shuffling. There were also several different operating systems used by faculty and staff. Our consolidated model narrowed these far-reaching issues down to the most essential points of concern, guided our path through these complicating factors as we brainstormed our recommendations.
 
-{% include image.html img="/images/artifactmodel800.jpg" title="artifact model" caption="Artifact model of a finding aide document created to help staff find folders in the shared drive and intranet." %}
-
-{% include image.html img="/images/consolidated800.jpg" title="consolidated model" caption="Consolidated artifact model of the shared drive and the finding aide to help navigate the drive." %}
+{% include image-pair.html imgOne="/images/artifactmodel800.jpg" titleOne="artifact model" captionOne="Artifact model of a finding aide document created to help staff find folders in the shared drive and intranet." imgTwo="/images/consolidated800.jpg" titleTwo="consolidated model" captionTwo="Consolidated artifact model of the shared drive and the finding aide to help navigate the drive." %}
 
 As an additional aid to process our gathered information, we sorted our affinity notes into logical categories to create an **affinity wall**. This sorting method allowed us to convert the notes and models into an organized perspective, which then allowed for a more methodical analysis of the data. The director of human resources toured the wall and provided feedback and questions that helped to create an even deeper understanding of the issues at hand.
 
