@@ -4,7 +4,7 @@ title:  "ux lessons from unlikely sources: johan cruyff"
 date:   2015-02-10 18:50:21
 image: /images/cruyff800.jpg
 categories: [blog] 
-excerpt: "My UX guru is somebody you’ve probably never heard of before. His name is Johan Cruyff and he is not a proper UX practitioner of any kind. His extent of technical expertise and computer savvy is probably that of a typical 67 year old who never worked an office job and spent most of their time outdoors. Cruyff is regularly cited as one of the greatest soccer players and managers in history. But he’s my UX guru."
+excerpt: "My UX guru is somebody you’ve probably never heard of before. His name is Johan Cruyff and he is not a proper UX practitioner of any kind. His extent of technical expertise and computer savvy is probably that of a typical 67 year old who never worked an office job and spent most of their time outdoors. Cruyff is regularly cited as one of the greatest soccer players and managers in history. But he’s my UX guru..."
 ---
 
 {% include image.html img="/images/cruyff800.jpg" title="johan cruyff" %}
