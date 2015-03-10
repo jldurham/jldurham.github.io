@@ -361,6 +361,7 @@
 	width: 150px;
 }
 
+
 .project-header {
     margin-top: 1em;
 }
@@ -387,6 +388,20 @@
 .red {
     color: #CC0033 !important;
     font-weight: 700;
+}
+
+
+@media only screen and (max-width: 480px) {
+    .likes, .likes + .likes {
+        float: none;
+        margin: 0 auto;
+        width: 150px;
+    }
+
+    .project-header {
+        margin-top: 0em;
+        margin-bottom: 1.5em;
+    }
 }
 
 /**
@@ -498,7 +513,7 @@
 }
 
 .resume-wrapper {
-    width: 150px;
+    width: 100px;
     padding-top: 3em;
     margin: 0 auto;
 }
