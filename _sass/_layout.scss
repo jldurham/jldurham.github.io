@@ -475,6 +475,12 @@
     }
 }
 
+@media only screen and (max-width: 320px) {
+       .p1 {
+        font-size: 1.85em !important;
+    }
+}
+
 /**
  * Image with caption
  */
