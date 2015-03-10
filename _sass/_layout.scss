@@ -723,6 +723,14 @@
     font-family: "Knewave";
     margin-right: 0.5em;
 }
+
+@media screen and (max-width: 750px ) {
+    .subheading {
+        display: block;
+    }
+}
+
+
 .links {
     text-align: center;
 }
