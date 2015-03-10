@@ -10,7 +10,7 @@ categories: [project]
 ### A design project that turned the monogramming service at Shinola's retail stores into a multi-platform digital experience for e-commerce.
 
 <div class="image-wrapper">
-<img id="first-image" src="/images/sample.jpg" />
+<img id="first-image" src="/images/shin-logo.jpg" />
 </div>
 
 ## the problem
