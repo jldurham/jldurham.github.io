@@ -467,7 +467,7 @@
 
 @media only screen and (max-width: 420px) {
     .p1 {
-        font-size: 2em !important;
+        font-size: 2em;
     }
 
     .p2 {
@@ -475,9 +475,10 @@
     }
 }
 
+
 @media only screen and (max-width: 320px) {
        .p1 {
-        font-size: 1.85em !important;
+        font-size: 1.55em;
     }
 }
 
