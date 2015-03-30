@@ -7,7 +7,7 @@ categories: [blog]
 excerpt: "In a corner of my parent’s basement, my father has accumulated and stored 72 years worth of everyday things. It is the workspace and personal nest of a man who has spent his life hungrily discovering new (and old) pieces of technology and figuring out how and why they work. I recently re-read Donald A. Norman’s The Design of Everyday Things, a book from 1988 that laid the groundwork for the field of user experience as we know it. As I was reading Norman’s psychology of design and usability, my mind was drawn to the assortment of historical and obsolete information objects in my dad’s basement treasure chest, particularly a device called a telegraph key..."
 ---
 
-{% include image.html img="/images/telgraph.jpg" title="telegraph key" %}
+{% include image.html img="/images/telegraph.jpg" title="telegraph key" %}
 
 In a corner of my parent’s basement, my father has accumulated and stored 72 years worth of things. It is the workspace and personal nest of a man who has spent his life hungrily discovering new (and old) pieces of technology and figuring out how and why they work. I just re-read Donald A. Norman’s The Design of Everyday Things, a book from 1988 that laid the groundwork for the field of user experience as we know it. As I was reading Norman’s psychology of design and usability, my mind was drawn to the assortment of historical and obsolete information objects in my dad’s basement treasure chest, particularly a device called a telegraph key.
  
